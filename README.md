@@ -1,4 +1,7 @@
-# api documentation for  [yazl (v2.4.2)](https://github.com/thejoshwolfe/yazl)  [![npm package](https://img.shields.io/npm/v/npmdoc-yazl.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-yazl) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-yazl.svg)](https://travis-ci.org/npmdoc/node-npmdoc-yazl)
+# npmdoc-yazl
+
+#### basic api documentation for  [yazl (v2.4.2)](https://github.com/thejoshwolfe/yazl)  [![npm package](https://img.shields.io/npm/v/npmdoc-yazl.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-yazl) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-yazl.svg)](https://travis-ci.org/npmdoc/node-npmdoc-yazl)
+
 #### yet another zip library for node
 
 [![NPM](https://nodei.co/npm/yazl.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/yazl)
@@ -64,7 +67,8 @@
     "scripts": {
         "test": "node test/test.js"
     },
-    "version": "2.4.2"
+    "version": "2.4.2",
+    "bin": {}
 }
 ```
 
